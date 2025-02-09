@@ -1,0 +1,1 @@
+{"id":2222,"item":"Router","quantity":1,"deviceId":"ca1e1988-05f2-4eaa-927c-dea2de532bab"}{"id":11111,"item":"Mobile","quantity":1,"deviceId":"6a55cdd3-3551-4f42-b2f5-2bb8f57e6ddd"}{"id":33333,"item":"SIM","quantity":1,"deviceId":"be216b55-429f-4ddc-95c5-36fb749dbb13"}{"id":444444,"item":"wifi","quantity":1,"deviceId":"145f6466-3c6e-4b57-8476-2716461cb2ec"}
